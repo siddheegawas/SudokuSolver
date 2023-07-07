@@ -1,3 +1,4 @@
+
 # Siddhee Gawas
 
 Hey, My name is Siddhee Gawas. I am full stack web developper tranie at Acciojob.
@@ -29,6 +30,8 @@ so here is the final project User Interface.
 
 **View 1:**    
 This is the first view of sudoku game's UI .
+![Screenshot 2023-07-07 182033](https://github.com/siddheegawas/SudokuSolver/assets/87761639/8f0c5864-f64b-4343-82a9-1846fb8d9724)
+
 
 
 
