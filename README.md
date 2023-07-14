@@ -37,7 +37,7 @@ This is the first view of sudoku game's UI .
 
 
 **view 2:**  
-when we Press solution game will provide correct solution. Answer will be shown in black background.
+when we Press solution game will provide correct solution. Answer will be shown in white background.
 ![Screenshot 2023-07-07 182104](https://github.com/siddheegawas/SudokuSolver/assets/87761639/09246384-4afa-472e-a037-5e6dc648a237)
 
 
